@@ -3,7 +3,7 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.20.
 
 ## New API
-Key is `3bceda4701064e3d92fa5cfbf48bcf1d`
+Key is ``
 
 ```
 var url = 'https://newsapi.org/v2/top-headlines?' +
