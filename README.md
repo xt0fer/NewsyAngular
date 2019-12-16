@@ -8,7 +8,7 @@ Key is ``
 ```
 var url = 'https://newsapi.org/v2/top-headlines?' +
           'country=us&' +
-          'apiKey=3bceda4701064e3d92fa5cfbf48bcf1d';
+          'apiKey=foobarbaz';
 var req = new Request(url);
 fetch(req)
     .then(function(response) {
